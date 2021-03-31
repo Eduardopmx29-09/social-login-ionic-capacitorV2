@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RapidKarts</string>
+    <string name="title_activity_main">RapidKarts</string>
+    <string name="package_name">com.example.app</string>
+    <string name="fileprovider_authority">com.example.app.fileprovider</string>
+    <string name="custom_url_scheme">com.example.app</string>
+    <string name="facebook_app_id">870596166852212</string>
+    <string name="fb_login_protocol_scheme">870596166852212</string>
+    <string name="server_client_id">974960908055-7cho1epk1qpkmh0c17qdll4erve8io3t.apps.googleusercontent.com</string>
+</resources>
